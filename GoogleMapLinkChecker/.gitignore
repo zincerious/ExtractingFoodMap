@@ -1,0 +1,15 @@
+# Ignore backend secrets and build
+ggmaplink/appsettings.json
+ggmaplink/appsettings.*.json
+ggmaplink/bin/
+ggmaplink/obj/
+ggmaplink/.vs/
+
+foodfinder/appsettings.json
+foodfinder/appsettings.*.json
+foodfinder/bin/
+foodfinder/obj/
+
+# OS and tool specific
+.DS_Store
+*.log

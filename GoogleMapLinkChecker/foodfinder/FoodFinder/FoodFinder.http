@@ -1,0 +1,6 @@
+@FoodFinder_HostAddress = http://localhost:5095
+
+GET {{FoodFinder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

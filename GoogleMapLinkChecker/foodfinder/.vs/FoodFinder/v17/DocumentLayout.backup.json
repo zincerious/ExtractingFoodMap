@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\FoodFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\models\\geminiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\models\\geminiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\models\\recommendationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\models\\recommendationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\models\\recommendationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\models\\recommendationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\foodfinder.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\foodfinder.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|d:\\dotnet\\foodfinder\\foodfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04612A95-C975-43DA-8D95-C4B8B032E4FA}|FoodFinder\\FoodFinder.csproj|solutionrelative:foodfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Models\\Location.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\Location.cs",
+              "RelativeToolTip": "FoodFinder\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:23:59.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Models\\Food.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\Food.cs",
+              "RelativeToolTip": "FoodFinder\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:53:21.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodFinder.http",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\FoodFinder.http",
+              "RelativeDocumentMoniker": "FoodFinder\\FoodFinder.http",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\FoodFinder.http",
+              "RelativeToolTip": "FoodFinder\\FoodFinder.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-26T06:58:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodFinder\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\appsettings.json",
+              "RelativeToolTip": "FoodFinder\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T06:41:06.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "FoodFinder\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:39:58.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecommendationItem.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\RecommendationItem.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Models\\RecommendationItem.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\RecommendationItem.cs",
+              "RelativeToolTip": "FoodFinder\\Models\\RecommendationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:34:50.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecommendationRequest.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\RecommendationRequest.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Models\\RecommendationRequest.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\RecommendationRequest.cs",
+              "RelativeToolTip": "FoodFinder\\Models\\RecommendationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:32:37.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Services\\FoodService.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Services\\FoodService.cs",
+              "RelativeToolTip": "FoodFinder\\Services\\FoodService.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAIwKAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:09:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeminiResponse.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\GeminiResponse.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Models\\GeminiResponse.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Models\\GeminiResponse.cs",
+              "RelativeToolTip": "FoodFinder\\Models\\GeminiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:41:49.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\FoodFinder\\FoodFinder\\Program.cs",
+              "RelativeDocumentMoniker": "FoodFinder\\Program.cs",
+              "ToolTip": "D:\\DotNet\\FoodFinder\\FoodFinder\\Program.cs",
+              "RelativeToolTip": "FoodFinder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:18:42.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

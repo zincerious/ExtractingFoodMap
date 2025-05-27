@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GoogleMapLinkChecker.Controllers.LinkCheckerController",
+    "Method": "CheckLink",
+    "RelativePath": "api/LinkChecker/validate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "link",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
