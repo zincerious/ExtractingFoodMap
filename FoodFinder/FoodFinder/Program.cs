@@ -18,6 +18,7 @@ namespace FoodFinder
             builder.Services.AddControllers();
             builder.Services.AddHttpClient();
             builder.Services.AddSingleton<FoodService>();
+            builder.Services.AddSingleton<WeatherService>();
 
             var app = builder.Build();
 
